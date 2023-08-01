@@ -1,0 +1,89 @@
+[
+  {
+    "Name": "Approval",
+    "Color": "#AEE9F0",
+    "Published": true,
+    "ApplyApprovalPolicyForAssignees": true,
+    "ActionButtons": [
+      {
+        "ActionButton": "Approve",
+        "IsActionToNextStep": true
+      },
+      {
+        "ActionButton": "Reject",
+        "IsActionToNextStep": false
+      },
+      {
+        "ActionButton": "Reassign",
+        "IsActionToNextStep": false
+      },
+      {
+        "ActionButton": "Return to Previous",
+        "IsActionToNextStep": false
+      },
+      {
+        "ActionButton": "Return to Requestor",
+        "IsActionToNextStep": false
+      }
+    ]
+  },
+  {
+    "Name": "Activity",
+    "Color": "#FECB98",
+    "Published": true,
+    "ApplyApprovalPolicyForAssignees": false,
+    "ActionButtons": [
+      {
+        "ActionButton": "Done",
+        "IsActionToNextStep": true
+      },
+      {
+        "ActionButton": "Reassign",
+        "IsActionToNextStep": false
+      },
+      {
+        "ActionButton": "Return to Previous",
+        "IsActionToNextStep": false
+      },
+      {
+        "ActionButton": "Return to Requestor",
+        "IsActionToNextStep": false
+      }
+    ]
+  },
+  {
+    "Name": "Review",
+    "Color": "#F7DCD5",
+    "Published": true,
+    "ApplyApprovalPolicyForAssignees": false,
+    "ActionButtons": [
+      {
+        "ActionButton": "Endorse",
+        "IsActionToNextStep": true
+      },
+      {
+        "ActionButton": "Reject",
+        "IsActionToNextStep": false
+      },
+      {
+        "ActionButton": "Reassign",
+        "IsActionToNextStep": false
+      },
+      {
+        "ActionButton": "Return to Previous",
+        "IsActionToNextStep": false
+      },
+      {
+        "ActionButton": "Return to Requestor",
+        "IsActionToNextStep": false
+      }
+    ]
+  },
+  {
+    "Name": "Notification",
+    "Color": "#F8CDE8",
+    "Published": true,
+    "ApplyApprovalPolicyForAssignees": false,
+    "ActionButtons": []
+  }
+]

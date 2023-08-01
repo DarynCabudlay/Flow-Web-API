@@ -1,0 +1,2013 @@
+[
+  {
+    "Name": "wAdd",
+    "Description": "Add",
+    "OptionGroup": "Button Controls",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "wEdit",
+    "Description": "Edit",
+    "OptionGroup": "Button Controls",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "wDelete",
+    "Description": "Delete",
+    "OptionGroup": "Button Controls",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "wExtract",
+    "Description": "Extract",
+    "OptionGroup": "Button Controls",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "wPrint",
+    "Description": "Print",
+    "OptionGroup": "Button Controls",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "wUpload",
+    "Description": "Upload",
+    "OptionGroup": "Button Controls",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "wDownload",
+    "Description": "Download",
+    "OptionGroup": "Button Controls",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "wSync",
+    "Description": "Sync",
+    "OptionGroup": "Button Controls",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "wFetch",
+    "Description": "Fetch",
+    "OptionGroup": "Button Controls",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "wApproved",
+    "Description": "Approved",
+    "OptionGroup": "Button Controls",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "DeleteRequestType",
+    "Description": "Deletion of Request Type",
+    "OptionGroup": "Reason Types",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "Approve",
+    "Description": "Approve",
+    "OptionGroup": "WorkFlow Step Actions",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "Done",
+    "Description": "Done",
+    "OptionGroup": "WorkFlow Step Actions",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "Endorse",
+    "Description": "Endorse",
+    "OptionGroup": "WorkFlow Step Actions",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "Reject",
+    "Description": "Reject",
+    "OptionGroup": "WorkFlow Step Actions",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "Reassign",
+    "Description": "Re-queue",
+    "OptionGroup": "WorkFlow Step Actions",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "Return to Previous",
+    "Description": "Return to Previous",
+    "OptionGroup": "WorkFlow Step Actions",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "Return to Requestor",
+    "Description": "Return to Requestor",
+    "OptionGroup": "WorkFlow Step Actions",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "AED",
+    "Description": "UAE Dirham",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "AFN",
+    "Description": "Afghani",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "ALL",
+    "Description": "Lek",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "AMD",
+    "Description": "Armenian Dram",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "ANG",
+    "Description": "Netherlands Antillean Guilder",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "AOA",
+    "Description": "Kwanza",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "ARS",
+    "Description": "Argentine Peso",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "AUD",
+    "Description": "Australian Dollar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "AWG",
+    "Description": "Aruban Florin",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "AZN",
+    "Description": "Azerbaijanian Manat",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "BAM",
+    "Description": "Convertible Mark",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "BBD",
+    "Description": "Barbados Dollar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "BDT",
+    "Description": "Taka",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "BGN",
+    "Description": "Bulgarian Lev",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "BHD",
+    "Description": "Bahraini Dinar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "BIF",
+    "Description": "Burundi Franc",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "BMD",
+    "Description": "Bermudian Dollar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "BND",
+    "Description": "Brunei Dollar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "BOB",
+    "Description": "Boliviano",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "BOV",
+    "Description": "Mvdol",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "BRL",
+    "Description": "Brazilian Real",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "BSD",
+    "Description": "Bahamian Dollar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "BTN",
+    "Description": "Ngultrum",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "BWP",
+    "Description": "Pula",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "BYR",
+    "Description": "Belarussian Ruble",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "BZD",
+    "Description": "Belize Dollar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "CAD",
+    "Description": "Canadian Dollar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "CDF",
+    "Description": "Congolese Franc",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "CHE",
+    "Description": "WIR Euro",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "CHF",
+    "Description": "Swiss Franc",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "CHW",
+    "Description": "WIR Franc",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "CLF",
+    "Description": "Unidad de Fomento",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "CLP",
+    "Description": "Chilean Peso",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "CNY",
+    "Description": "Yuan Renminbi",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "COP",
+    "Description": "Colombian Peso",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "COU",
+    "Description": "Unidad de Valor Real",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "CRC",
+    "Description": "Costa Rican Colon",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "CUC",
+    "Description": "Peso Convertible",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "CUP",
+    "Description": "Cuban Peso",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "CVE",
+    "Description": "Cabo Verde Escudo",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "CZK",
+    "Description": "Czech Koruna",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "DJF",
+    "Description": "Djibouti Franc",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "DKK",
+    "Description": "Danish Krone",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "DOP",
+    "Description": "Dominican Peso",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "DZD",
+    "Description": "Algerian Dinar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "EGP",
+    "Description": "Egyptian Pound",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "ERN",
+    "Description": "Nakfa",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "ETB",
+    "Description": "Ethiopian Birr",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "EUR",
+    "Description": "Euro",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "FJD",
+    "Description": "Fiji Dollar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "FKP",
+    "Description": "Falkland Islands Pound",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "GBP",
+    "Description": "Pound Sterling",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "GEL",
+    "Description": "Lari",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "GHS",
+    "Description": "Ghana Cedi",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "GIP",
+    "Description": "Gibraltar Pound",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "GMD",
+    "Description": "Dalasi",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "GNF",
+    "Description": "Guinea Franc",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "GTQ",
+    "Description": "Quetzal",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "GYD",
+    "Description": "Guyana Dollar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "HKD",
+    "Description": "Hong Kong Dollar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "HNL",
+    "Description": "Lempira",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "HRK",
+    "Description": "Croatian Kuna",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "HTG",
+    "Description": "Gourde",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "HUF",
+    "Description": "Forint",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "IDR",
+    "Description": "Rupiah",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "ILS",
+    "Description": "New Israeli Sheqel",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "INR",
+    "Description": "Indian Rupee",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "IQD",
+    "Description": "Iraqi Dinar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "IRR",
+    "Description": "Iranian Rial",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "ISK",
+    "Description": "Iceland Krona",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "JMD",
+    "Description": "Jamaican Dollar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "JOD",
+    "Description": "Jordanian Dinar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "JPY",
+    "Description": "Yen",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "KES",
+    "Description": "Kenyan Shilling",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "KGS",
+    "Description": "Som",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "KHR",
+    "Description": "Riel",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "KMF",
+    "Description": "Comoro Franc",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "KPW",
+    "Description": "North Korean Won",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "KRW",
+    "Description": "Won",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "KWD",
+    "Description": "Kuwaiti Dinar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "KYD",
+    "Description": "Cayman Islands Dollar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "KZT",
+    "Description": "Tenge",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "LAK",
+    "Description": "Kip",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "LBP",
+    "Description": "Lebanese Pound",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "LKR",
+    "Description": "Sri Lanka Rupee",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "LRD",
+    "Description": "Liberian Dollar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "LSL",
+    "Description": "Loti",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "LYD",
+    "Description": "Libyan Dinar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "MAD",
+    "Description": "Moroccan Dirham",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "MDL",
+    "Description": "Moldovan Leu",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "MGA",
+    "Description": "Malagasy Ariary",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "MKD",
+    "Description": "Denar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "MMK",
+    "Description": "Kyat",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "MNT",
+    "Description": "Tugrik",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "MOP",
+    "Description": "Pataca",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "MRO",
+    "Description": "Ouguiya",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "MUR",
+    "Description": "Mauritius Rupee",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "MVR",
+    "Description": "Rufiyaa",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "MWK",
+    "Description": "Kwacha",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "MXN",
+    "Description": "Mexican Peso",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "MXV",
+    "Description": "Mexican Unidad de Inversion (UDI)",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "MYR",
+    "Description": "Malaysian Ringgit",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "MZN",
+    "Description": "Mozambique Metical",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "NAD",
+    "Description": "Namibia Dollar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "NGN",
+    "Description": "Naira",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "NIO",
+    "Description": "Cordoba Oro",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "NOK",
+    "Description": "Norwegian Krone",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "NPR",
+    "Description": "Nepalese Rupee",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "NZD",
+    "Description": "New Zealand Dollar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "OMR",
+    "Description": "Rial Omani",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "PAB",
+    "Description": "Balboa",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "PEN",
+    "Description": "Nuevo Sol",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "PGK",
+    "Description": "Kina",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "PHP",
+    "Description": "Philippine Peso",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "PKR",
+    "Description": "Pakistan Rupee",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "PLN",
+    "Description": "Zloty",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "PYG",
+    "Description": "Guarani",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "QAR",
+    "Description": "Qatari Rial",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "RON",
+    "Description": "New Romanian Leu",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "RSD",
+    "Description": "Serbian Dinar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "RUB",
+    "Description": "Russian Ruble",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "RWF",
+    "Description": "Rwanda Franc",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "SAR",
+    "Description": "Saudi Riyal",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "SBD",
+    "Description": "Solomon Islands Dollar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "SCR",
+    "Description": "Seychelles Rupee",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "SDG",
+    "Description": "Sudanese Pound",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "SEK",
+    "Description": "Swedish Krona",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "SGD",
+    "Description": "Singapore Dollar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "SHP",
+    "Description": "Saint Helena Pound",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "SLL",
+    "Description": "Leone",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "SOS",
+    "Description": "Somali Shilling",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "SRD",
+    "Description": "Surinam Dollar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "SSP",
+    "Description": "South Sudanese Pound",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "STD",
+    "Description": "Dobra",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "SVC",
+    "Description": "El Salvador Colon",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "SYP",
+    "Description": "Syrian Pound",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "SZL",
+    "Description": "Lilangeni",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "THB",
+    "Description": "Baht",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "TJS",
+    "Description": "Somoni",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "TMT",
+    "Description": "Turkmenistan New Manat",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "TND",
+    "Description": "Tunisian Dinar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "TOP",
+    "Description": "Pa'anga",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "TRY",
+    "Description": "Turkish Lira",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "TTD",
+    "Description": "Trinidad and Tobago Dollar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "TWD",
+    "Description": "New Taiwan Dollar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "TZS",
+    "Description": "Tanzanian Shilling",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "UAH",
+    "Description": "Hryvnia",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "UGX",
+    "Description": "Uganda Shilling",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "USD",
+    "Description": "US Dollar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "USN",
+    "Description": "US Dollar (Next day)",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "UYI",
+    "Description": "Uruguay Peso en Unidades Indexadas (URUIURUI)",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "UYU",
+    "Description": "Peso Uruguayo",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "UZS",
+    "Description": "Uzbekistan Sum",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "VEF",
+    "Description": "Bolivar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "VND",
+    "Description": "Dong",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "VUV",
+    "Description": "Vatu",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "WST",
+    "Description": "Tala",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "XAF",
+    "Description": "CFA Franc BEAC",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "XAG",
+    "Description": "Silver",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "XAU",
+    "Description": "Gold",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "XBA",
+    "Description": "Bond Markets Unit European Composite Unit (EURCO)",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "XBB",
+    "Description": "Bond Markets Unit European Monetary Unit (E.M.U.-6)",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "XBC",
+    "Description": "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "XBD",
+    "Description": "Bond Markets Unit European Unit of Account 17 (E.U.A.-17)",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "XCD",
+    "Description": "East Caribbean Dollar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "XDR",
+    "Description": "SDR (Special Drawing Right)",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "XOF",
+    "Description": "CFA Franc BCEAO",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "XPD",
+    "Description": "Palladium",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "XPF",
+    "Description": "CFP Franc",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "XPT",
+    "Description": "Platinum",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "XSU",
+    "Description": "Sucre",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "XTS",
+    "Description": "Codes specifically reserved for testing purposes",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "XUA",
+    "Description": "ADB Unit of Account",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "XXX",
+    "Description": "The codes assigned for transactions where no currency is involved",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "YER",
+    "Description": "Yemeni Rial",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "ZAR",
+    "Description": "Rand",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "ZMW",
+    "Description": "Zambian Kwacha",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "ZWL",
+    "Description": "Zimbabwe Dollar",
+    "OptionGroup": "Currencies",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "Field Name",
+    "Description": "Fields will be the source of condition",
+    "OptionGroup": "Condition Sources",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "Step Description",
+    "Description": "Steps will be the source of condition",
+    "OptionGroup": "Condition Sources",
+    "Published": false,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "Regular Holidays",
+    "Description": "Regular Holidays",
+    "OptionGroup": "Holiday Type",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+  {
+    "Name": "Special (Non-Working) Holidays",
+    "Description": "Special (Non-Working) Holidays",
+    "OptionGroup": "Holiday Type",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  },
+
+  {
+    "Name": "Special Working Day",
+    "Description": "Special Working Day",
+    "OptionGroup": "Holiday Type",
+    "Published": true,
+    "CreatedDate": "2022-02-18 00:00:00",
+    "CreatedByPK": "INITIALSYSTEMDEFAULT",
+    "ModifiedDate": null,
+    "ModifiedByPK": null
+  }
+]

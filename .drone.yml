@@ -1,0 +1,12 @@
+kind: pipeline
+name: Default
+
+platform:
+  os: linux
+  arch: amd64
+
+steps:
+- name: Build
+  image: mcr.microsoft.com/dotnet/sdk:5.0
+  commands:
+  - sh build.sh

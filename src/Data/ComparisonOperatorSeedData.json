@@ -1,0 +1,106 @@
+[
+  {
+    "name": "After",
+    "applicableDataTypes": "Numeric,Currency",
+    "applicableFieldTypes": "3,1,2,4,5,7",
+    "technicalEquivalent": "[criteria] > '[value]'",
+    "technicalEquivalent2": "[criteria] > [value]",
+    "useInMultipleTypes": true
+  },
+  {
+    "name": "Before",
+    "applicableDataTypes": "Numeric,Currency",
+    "applicableFieldTypes": "3,1,2,4,5,7",
+    "technicalEquivalent": "[criteria] < '[value]'",
+    "technicalEquivalent2": "[criteria] < [value]",
+    "useInMultipleTypes": true
+  },
+  {
+    "name": "Contains",
+    "applicableDataTypes": "Alphabet,Alphanumeric",
+    "applicableFieldTypes": "1,2,4,5,6,7,8",
+    "technicalEquivalent": "[criteria] Like '%[value]%'",
+    "technicalEquivalent2": null,
+    "useInMultipleTypes": false
+  },
+  {
+    "name": "Not Contains",
+    "applicableDataTypes": "Alphabet,Alphanumeric",
+    "applicableFieldTypes": "1,2,4,5,6,7,8",
+    "technicalEquivalent": "[criteria] Not Like '%[Value]%'",
+    "technicalEquivalent2": null,
+    "useInMultipleTypes": false
+  },
+  {
+    "name": "Equal to",
+    "applicableDataTypes": "Numeric,Currency,Alphabet,Alphanumeric",
+    "applicableFieldTypes": "3,1,2,4,5,6,7,8",
+    "technicalEquivalent": "[criteria] = '[value]'",
+    "technicalEquivalent2": "[criteria] = [value]",
+    "useInMultipleTypes": true
+  },
+  {
+    "name": "Not Equal to",
+    "applicableDataTypes": "Numeric,Currency,Alphabet,Alphanumeric",
+    "applicableFieldTypes": "3,1,2,4,5,6,7,8",
+    "technicalEquivalent": "[criteria] <> '[value]'",
+    "technicalEquivalent2": "[criteria] <> [value]",
+    "useInMultipleTypes": true
+  },
+  {
+    "name": "Greater than",
+    "applicableDataTypes": "Numeric,Currency",
+    "applicableFieldTypes": "3,1,2,4,5,7",
+    "technicalEquivalent": "[criteria] > '[value]'",
+    "technicalEquivalent2": "[criteria] > [value]",
+    "useInMultipleTypes": true
+  },
+  {
+    "name": "Greater than and equal to",
+    "applicableDataTypes": "Numeric,Currency",
+    "applicableFieldTypes": "3,1,2,4,5,7",
+    "technicalEquivalent": "[criteria] >= '[value]'",
+    "technicalEquivalent2": "[criteria] >= [value]",
+    "useInMultipleTypes": true
+  },
+  {
+    "name": "Less than",
+    "applicableDataTypes": "Numeric,Currency",
+    "applicableFieldTypes": "3,1,2,4,5,7",
+    "technicalEquivalent": "[criteria] < '[value]'",
+    "technicalEquivalent2": "[criteria] < [value]",
+    "useInMultipleTypes": true
+  },
+  {
+    "name": "Less than and equal to",
+    "applicableDataTypes": "Numeric,Currency",
+    "applicableFieldTypes": "3,1,2,4,5,7",
+    "technicalEquivalent": "[criteria] <= '[value]'",
+    "technicalEquivalent2": "[criteria] <= [value]",
+    "useInMultipleTypes": true
+  },
+  {
+    "name": "StartsWith",
+    "applicableDataTypes": "Alphabet,Alphanumeric",
+    "applicableFieldTypes": "1,2,4,5,6,7,8",
+    "technicalEquivalent": "[criteria] Like '[value]%'",
+    "technicalEquivalent2": null,
+    "useInMultipleTypes": false
+  },
+  {
+    "name": "EndsWith",
+    "applicableDataTypes": "Alphabet,Alphanumeric",
+    "applicableFieldTypes": "1,2,4,5,6,7,8",
+    "technicalEquivalent": "[criteria] Like '%[value]'",
+    "technicalEquivalent2": null,
+    "useInMultipleTypes": false
+  },
+  {
+    "name": "Between",
+    "applicableDataTypes": null,
+    "applicableFieldTypes": "9,3",
+    "technicalEquivalent": "([criteria] >= '[value]' AND [criteria_to] <= '[value2]')",
+    "technicalEquivalent2": null,
+    "useInMultipleTypes": false
+  }
+]

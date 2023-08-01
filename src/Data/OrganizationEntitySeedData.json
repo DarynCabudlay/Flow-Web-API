@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Group",
+    "hierarchy": 1,
+    "published": true,
+    "CreatedBy": "INITIALSYSTEMDEFAULT",
+    "ModifiedBy": null,
+    "ModifiedDate": null,
+    "WebClass": "bg-primary"
+  },
+  {
+    "name": "Division",
+    "hierarchy": 2,
+    "published": true,
+    "CreatedBy": "INITIALSYSTEMDEFAULT",
+    "ModifiedBy": null,
+    "ModifiedDate": null,
+    "WebClass": "bg-info"
+  },
+  {
+    "name": "Department",
+    "hierarchy": 3,
+    "published": true,
+    "CreatedBy": "INITIALSYSTEMDEFAULT",
+    "ModifiedBy": null,
+    "ModifiedDate": null,
+    "WebClass": "bg-success"
+  },
+  {
+    "name": "Section",
+    "hierarchy": 4,
+    "published": true,
+    "CreatedBy": "INITIALSYSTEMDEFAULT",
+    "ModifiedBy": null,
+    "ModifiedDate": null,
+    "WebClass": "bg-secondary"
+  },
+  {
+    "name": "Unit",
+    "hierarchy": 5,
+    "published": true,
+    "CreatedBy": "INITIALSYSTEMDEFAULT",
+    "ModifiedBy": null,
+    "ModifiedDate": null,
+    "WebClass": "bg-dark"
+  }
+]

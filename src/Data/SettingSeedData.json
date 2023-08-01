@@ -1,0 +1,506 @@
+[
+  //{
+  //  "VSettingId": "_CHANGEPROFILE",
+  //  "vSettingName": "Change Profile",
+  //  "vSettingOption": true,
+  //  "vSettingGroup": "System",
+  //  "vSettingLabel": "Miscellaneous"
+  //},
+  //{
+  //  "VSettingId": "_EMAILVERIFICATION",
+  //  "vSettingName": "Email Verification",
+  //  "vSettingOption": false,
+  //  "vSettingGroup": "System",
+  //  "vSettingLabel": "Miscellaneous"
+  //},
+  //{
+  //  "VSettingId": "_USERREGISTER",
+  //  "vSettingName": "User Register",
+  //  "vSettingOption": true,
+  //  "vSettingGroup": "System",
+  //  "vSettingLabel": "Miscellaneous"
+  //},
+  //{
+  //  "VSettingId": "_RECOVERPASSWORD",
+  //  "vSettingName": "Recover Password",
+  //  "vSettingOption": true,
+  //  "vSettingGroup": "System",
+  //  "vSettingLabel": "Miscellaneous"
+  //},
+  //{
+  //  "VSettingId": "_USERROLE",
+  //  "vSettingName": "User Role",
+  //  "vSettingOption": null,
+  //  "vSettingGroup": "System",
+  //  "vSettingLabel": "Miscellaneous"
+  //},
+  //{
+  //  "VSettingId": "_CHANGEPASSWORD",
+  //  "vSettingName": "Change Password",
+  //  "vSettingOption": true,
+  //  "vSettingGroup": "System",
+  //  "vSettingLabel": "Miscellaneous"
+  //},
+  //{
+  //  "VSettingId": "_TWOFACTORENABLED",
+  //  "vSettingName": "TwoFactorEnabled",
+  //  "vSettingOption": true,
+  //  "vSettingGroup": "System",
+  //  "vSettingLabel": "Miscellaneous"
+  //},
+  //{
+  //  "VSettingId": "_EXTERNALLOGIN",
+  //  "vSettingName": "External Login",
+  //  "vSettingOption": false,
+  //  "vSettingGroup": "System",
+  //  "vSettingLabel": "Miscellaneous"
+  //},
+  //{
+  //  "VSettingId": "_PASSWORDVALIDITY",
+  //  "vSettingName": "Password Validity",
+  //  "vSettingOption": 60,
+  //  "vSettingGroup": "System",
+  //  "vSettingLabel": "Miscellaneous"
+  //},
+  //{
+  //  "VSettingId": "_PASSWORDEXPIRATIONREMINDER",
+  //  "vSettingName": "Password Expiration Reminder",
+  //  "vSettingOption": 10,
+  //  "vSettingGroup": "System",
+  //  "vSettingLabel": "Miscellaneous"
+  //},
+  //{
+  //  "VSettingId": "_DEFAULTHOMEPAGE",
+  //  "vSettingName": "Default Home Page",
+  //  "vSettingOption": "/home/index",
+  //  "vSettingGroup": "System",
+  //  "vSettingLabel": "System Settings"
+  //},
+  //{
+  //  "VSettingId": "_DEFAULTTHEME",
+  //  "vSettingName": "Default Theme Setting",
+  //  "vSettingOption": "mod-skin-default",
+  //  "vSettingGroup": "Theme",
+  //  "vSettingLabel": "Theme Settings"
+  //},
+  //{
+  //  "VSettingId": "_MAXLOGINATTEMPTS",
+  //  "vSettingName": "Maximum Login Attempts",
+  //  "vSettingOption": 3,
+  //  "vSettingGroup": "System",
+  //  "vSettingLabel": "Miscellaneous"
+  //},
+  //{
+  //  "VSettingId": "_DOMAIN",
+  //  "vSettingName": "Domain URL",
+  //  "vSettingOption": "http://localhost:4200",
+  //  "vSettingGroup": "System",
+  //  "vSettingLabel": "Miscellaneous"
+  //}
+    {
+      "VSettingId": "_CHANGEPROFILE",
+      "VSettingName": "Change Profile",
+      "VSettingOption": true,
+      "VSettingGroup": "System",
+      "VSettingLabel": "Miscellaneous"
+    },
+    {
+      "VSettingId": "_EMAILVERIFICATION",
+      "VSettingName": "Email Verification",
+      "VSettingOption": false,
+      "VSettingGroup": "System",
+      "VSettingLabel": "Miscellaneous"
+    },
+    {
+      "VSettingId": "_USERREGISTER",
+      "VSettingName": "User Register",
+      "VSettingOption": true,
+      "VSettingGroup": "System",
+      "VSettingLabel": "Miscellaneous"
+    },
+    {
+      "VSettingId": "_RECOVERPASSWORD",
+      "VSettingName": "Recover Password",
+      "VSettingOption": true,
+      "VSettingGroup": "System",
+      "VSettingLabel": "Miscellaneous"
+    },
+    {
+      "VSettingId": "_USERROLE",
+      "VSettingName": "User Role",
+      "VSettingOption": "4594BBC7-831E-4BFE-B6C4-91DFA42DBB03",
+      "VSettingGroup": "System",
+      "VSettingLabel": "Miscellaneous"
+    },
+    {
+      "VSettingId": "_CHANGEPASSWORD",
+      "VSettingName": "Change Password",
+      "VSettingOption": true,
+      "VSettingGroup": "System",
+      "VSettingLabel": "Miscellaneous"
+    },
+    {
+      "VSettingId": "_TWOFACTORENABLED",
+      "VSettingName": "TwoFactorEnabled",
+      "VSettingOption": true,
+      "VSettingGroup": "System",
+      "VSettingLabel": "Miscellaneous"
+    },
+    {
+      "VSettingId": "_EXTERNALLOGIN",
+      "VSettingName": "External Login",
+      "VSettingOption": false,
+      "VSettingGroup": "System",
+      "VSettingLabel": "Miscellaneous"
+    },
+    {
+      "VSettingId": "_PASSWORDVALIDITY",
+      "VSettingName": "Password Validity",
+      "VSettingOption": 60,
+      "VSettingGroup": "System",
+      "VSettingLabel": "Miscellaneous"
+    },
+    {
+      "VSettingId": "_PASSWORDEXPIRATIONREMINDER",
+      "VSettingName": "Password Expiration Reminder",
+      "VSettingOption": 10,
+      "VSettingGroup": "System",
+      "VSettingLabel": "Miscellaneous"
+    },
+    {
+      "VSettingId": "_DEFAULTHOMEPAGE",
+      "VSettingName": "Default Home Page",
+      "VSettingOption": "/home/index",
+      "VSettingGroup": "Server",
+      "VSettingLabel": "System Setting"
+    },
+    {
+      "VSettingId": "_DEFAULTTHEME",
+      "VSettingName": "Default Theme Setting",
+      "VSettingOption": "default",
+      "VSettingGroup": "Theme",
+      "VSettingLabel": "Theme Setting"
+    },
+    {
+      "VSettingId": "_SITENAME",
+      "VSettingName": "Site Name",
+      "VSettingOption": "Federal Land Online Workflow",
+      "VSettingGroup": "Site",
+      "VSettingLabel": "Site Setting"
+    },
+    {
+      "VSettingId": "_SITECODE",
+      "VSettingName": "Site Code",
+      "VSettingOption": "FLOW",
+      "VSettingGroup": "Site",
+      "VSettingLabel": "Site Setting"
+    },
+    {
+      "VSettingId": "_SITEOFFLINE",
+      "VSettingName": "Site Offline",
+      "VSettingOption": false,
+      "VSettingGroup": "Site",
+      "VSettingLabel": "Site Setting"
+    },
+    {
+      "VSettingId": "_SITEOFFLINEMESSAGE",
+      "VSettingName": "Site Offline Message",
+      "VSettingOption": "Under Maintenance",
+      "VSettingGroup": "Site",
+      "VSettingLabel": "Site Setting"
+    },
+    {
+      "VSettingId": "_SITEMETADESCRIPTION",
+      "VSettingName": "Site Meta Description",
+      "VSettingOption": "Federal Land Organization Workflow",
+      "VSettingGroup": "Site",
+      "VSettingLabel": "Site Setting"
+    },
+    {
+      "VSettingId": "_SITEMETAKEYWORD",
+      "VSettingName": "Site Meta Keyword",
+      "VSettingOption": "Federal Land Organization Workflow",
+      "VSettingGroup": "Site",
+      "VSettingLabel": "Site Setting"
+    },
+    {
+      "VSettingId": "_SITEROBOTS",
+      "VSettingName": "Robots",
+      "VSettingOption": "No index, no follow",
+      "VSettingGroup": "Site",
+      "VSettingLabel": "Site Setting"
+    },
+    {
+      "VSettingId": "_SITEAUTHOR",
+      "VSettingName": "Site Author",
+      "VSettingOption": "FedLand",
+      "VSettingGroup": "Site",
+      "VSettingLabel": "Site Setting"
+    },
+    {
+      "VSettingId": "_CONTENTRIGHT",
+      "VSettingName": "Content Right",
+      "VSettingOption": "FedLand",
+      "VSettingGroup": "Site",
+      "VSettingLabel": "Site Setting"
+    },
+    {
+      "VSettingId": "_PROJECTDIR",
+      "VSettingName": "Project Directory",
+      "VSettingOption": "/.tmp",
+      "VSettingGroup": "Server",
+      "VSettingLabel": "Server Config"
+    },
+    {
+      "VSettingId": "_UPLOADPATH",
+      "VSettingName": "Upload Path",
+      "VSettingOption": "/.tmp",
+      "VSettingGroup": "Server",
+      "VSettingLabel": "Server Config"
+    },
+    {
+      "VSettingId": "_REPORTHPATH",
+      "VSettingName": "Report Path",
+      "VSettingOption": "/.tmp",
+      "VSettingGroup": "Server",
+      "VSettingLabel": "Server Config"
+    },
+    {
+      "VSettingId": "_IPADDRESS",
+      "VSettingName": "IP Address",
+      "VSettingOption": "10.15.7.143",
+      "VSettingGroup": "Server",
+      "VSettingLabel": "Server Config"
+    },
+    {
+      "VSettingId": "_SERVERENVIRONMENT",
+      "VSettingName": "System Environment",
+      "VSettingOption": "DEV",
+      "VSettingGroup": "Server",
+      "VSettingLabel": "Server Config"
+    },
+    {
+      "VSettingId": "_SMSAPIKEY",
+      "VSettingName": "SMS Api Key",
+      "VSettingOption": "n/a",
+      "VSettingGroup": "Server",
+      "VSettingLabel": "Server Config"
+    },
+    {
+      "VSettingId": "_SMSAPISECRET",
+      "VSettingName": "SMS API Secret",
+      "VSettingOption": "n/a",
+      "VSettingGroup": "Server",
+      "VSettingLabel": "Server Config"
+    },
+    {
+      "VSettingId": "_HTTPMETHOD",
+      "VSettingName": "Http Method",
+      "VSettingOption": "http",
+      "VSettingGroup": "Server",
+      "VSettingLabel": "Server Config"
+    },
+    {
+      "VSettingId": "_CALLBACKINBOUNDMESSAGE",
+      "VSettingName": "Call back URL for Inbound Message",
+      "VSettingOption": "n/a",
+      "VSettingGroup": "Server",
+      "VSettingLabel": "Server Config"
+    },
+    {
+      "VSettingId": "_CALLBACKDELIVERYRECEIPT",
+      "VSettingName": "Call back URL for Delivery Receip",
+      "VSettingOption": "n/a",
+      "VSettingGroup": "Server",
+      "VSettingLabel": "Server Config"
+    },
+    {
+      "VSettingId": "_FROMEMAIL",
+      "VSettingName": "From Email",
+      "VSettingOption": "no-reply@federalland.ph",
+      "VSettingGroup": "Server",
+      "VSettingLabel": "Server Config"
+    },
+    {
+      "VSettingId": "_FROMNAME",
+      "VSettingName": "From Name",
+      "VSettingOption": "Federal Land",
+      "VSettingGroup": "Server",
+      "VSettingLabel": "Server Config"
+    },
+    {
+      "VSettingId": "_REPLYTOEMAIL",
+      "VSettingName": "Reply To Email",
+      "VSettingOption": "no-reply@federalland.ph",
+      "VSettingGroup": "Server",
+      "VSettingLabel": "Server Config"
+    },
+    {
+      "VSettingId": "_REPLYNAME",
+      "VSettingName": "Reply To Name",
+      "VSettingOption": "Federal Land",
+      "VSettingGroup": "Server",
+      "VSettingLabel": "Server Config"
+    },
+    {
+      "VSettingId": "_MAILER",
+      "VSettingName": "Mailer",
+      "VSettingOption": "SMTP",
+      "VSettingGroup": "Server",
+      "VSettingLabel": "Server Config"
+    },
+    {
+      "VSettingId": "_SMTPHOST",
+      "VSettingName": "SMTP Host",
+      "VSettingOption": "smtp.federalland.ph",
+      "VSettingGroup": "Server",
+      "VSettingLabel": "Server Config"
+    },
+    {
+      "VSettingId": "_SMTPPORT",
+      "VSettingName": "SMTP Port",
+      "VSettingOption": 25,
+      "VSettingGroup": "Server",
+      "VSettingLabel": "Server Config"
+    },
+    {
+      "VSettingId": "_SMTPSECURITY",
+      "VSettingName": "SMTP Security",
+      "VSettingOption": "None",
+      "VSettingGroup": "Server",
+      "VSettingLabel": "Server Config"
+    },
+    {
+      "VSettingId": "_SMTPAUTHENTICATION",
+      "VSettingName": "SMTP Authentication",
+      "VSettingOption": true,
+      "VSettingGroup": "Server",
+      "VSettingLabel": "Server Config"
+    },
+    {
+      "VSettingId": "_SMTPENABLESSL",
+      "VSettingName": "SMTP EnableSsl",
+      "VSettingOption": false,
+      "VSettingGroup": "Server",
+      "VSettingLabel": "Server Config"
+    },
+    {
+      "VSettingId": "_COMPANY",
+      "VSettingName": "Company",
+      "VSettingOption": "Federal Land, Inc.",
+      "VSettingGroup": "Company",
+      "VSettingLabel": "Company Information"
+    },
+    {
+      "VSettingId": "_CORPORATEADDRESS",
+      "VSettingName": "Corporate Address",
+      "VSettingOption": "10F GT Tower International 6813 Ayala Avenue corner H.V. Dela Costa, Makati City, 1227, Philippines",
+      "VSettingGroup": "Company",
+      "VSettingLabel": "Company Information"
+    },
+    {
+      "VSettingId": "_CORPORATECONTACTNOS",
+      "VSettingName": "Corporate Contact Nos",
+      "VSettingOption": "(632) 8883 6888",
+      "VSettingGroup": "Company",
+      "VSettingLabel": "Company Information"
+    },
+    {
+      "VSettingId": "_CORPORATEFAXNOS",
+      "VSettingName": "Corporate Fax Nos",
+      "VSettingOption": "8883 6888",
+      "VSettingGroup": "Company",
+      "VSettingLabel": "Company Information"
+    },
+    {
+      "VSettingId": "_CORPORATEEMAIL",
+      "VSettingName": "Corporate Email",
+      "VSettingOption": "info@federalland.ph",
+      "VSettingGroup": "Company",
+      "VSettingLabel": "Company Information"
+    },
+    {
+      "VSettingId": "_CORPORATEWEBSITE",
+      "VSettingName": "Corporate Website",
+      "VSettingOption": "https://federalland.ph/",
+      "VSettingGroup": "Company",
+      "VSettingLabel": "Company Information"
+    },
+    {
+      "VSettingId": "_FACEBOOKPAGE",
+      "VSettingName": "Facebook Page",
+      "VSettingOption": "https://www.facebook.com/FederalLandOfficial/",
+      "VSettingGroup": "Company",
+      "VSettingLabel": "Company Information"
+    },
+    {
+      "VSettingId": "_TWITTERPAGE",
+      "VSettingName": "Twitter Page",
+      "VSettingOption": "https://twitter.com/Federal_Land",
+      "VSettingGroup": "Company",
+      "VSettingLabel": "Company Information"
+    },
+    {
+      "VSettingId": "_INSTAGRAMPAGE",
+      "VSettingName": "Instagram Page",
+      "VSettingOption": "https://www.instagram.com/federallandofficial/",
+      "VSettingGroup": "Company",
+      "VSettingLabel": "Company Information"
+    },
+    {
+      "VSettingId": "_YOUTUBEPAGE",
+      "VSettingName": "Youtube Page",
+      "VSettingOption": "https://www.youtube.com/channel/UCVbYoOgxluIn2y5QkbOwVRA",
+      "VSettingGroup": "Company",
+      "VSettingLabel": "Company Information"
+    },
+    {
+      "VSettingId": "_PINTERESTPAGE",
+      "VSettingName": "Pinterest Page",
+      "VSettingOption": "https://www.pinterest.com/FederalLandOfficial/",
+      "VSettingGroup": "Company",
+      "VSettingLabel": "Company Information"
+    },
+    {
+      "VSettingId": "_LINKEDINPAGE",
+      "VSettingName": "Linkedin Page",
+      "VSettingOption": "n/a",
+      "VSettingGroup": "Company",
+      "VSettingLabel": "Company Information"
+    },
+    {
+      "VSettingId": "_SECRETKEY",
+      "VSettingName": "Secret Key",
+      "VSettingOption": "F3dr@lland",
+      "VSettingGroup": "Server",
+      "VSettingLabel": "Server Config"
+    },
+    {
+      "VSettingId": "_MAXLOGINATTEMPTS",
+      "VSettingName": "Maximum Login Attempts",
+      "VSettingOption": 3,
+      "VSettingGroup": "System",
+      "VSettingLabel": "Miscellaneous"
+    },
+    {
+      "VSettingId": "_DOMAIN",
+      "VSettingName": "Domain URL",
+      "VSettingOption": "http://localhost:4200",
+      "VSettingGroup": "Site",
+      "VSettingLabel": "Site Setting"
+    },
+    {
+      "VSettingId": "_DORMANTSTATEEFFECTIVITY",
+      "VSettingName": "Dormant State Effectivity",
+      "VSettingOption": 90,
+      "VSettingGroup": "System",
+      "VSettingLabel": "Miscellaneous"
+    },
+    {
+      "VSettingId": "_INITIALPASSWORDVALIDITY",
+      "VSettingName": "Initial Password Validity",
+      "VSettingOption": 7,
+      "VSettingGroup": "System",
+      "VSettingLabel": "Miscellaneous"
+    }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "MenuControlId": "5c3da38e-5af4-4d23-aefa-1065c753a03b",
+    "MenuId": "123358E4-1E0E-4A4E-ABF8-ED8C2ED009B3",
+    "ActionButton": "wDelete"
+  },
+  {
+    "MenuControlId": "5db69856-425f-49bc-a081-a5e6abcef8c7",
+    "MenuId": "123358E4-1E0E-4A4E-ABF8-ED8C2ED009B3",
+    "ActionButton": "wEdit"
+  },
+  {
+    "MenuControlId": "7e05cb08-5ecb-4c39-9b5a-7eb3aba732d6",
+    "MenuId": "123358E4-1E0E-4A4E-ABF8-ED8C2ED009B3",
+    "ActionButton": "wAdd"
+  },
+  {
+    "MenuControlId": "5ff6216e-021f-44fe-9e98-3db5b1685d24",
+    "MenuId": "17558B5C-4DF9-4E7D-9F5C-4B48FC1D390C",
+    "ActionButton": "wDelete"
+  },
+  {
+    "MenuControlId": "651ca2ed-8540-47c6-a007-ed0c00db0e6e",
+    "MenuId": "17558B5C-4DF9-4E7D-9F5C-4B48FC1D390C",
+    "ActionButton": "wEdit"
+  },
+  {
+    "MenuControlId": "c6a75d56-3147-457e-a673-8ef254c30395",
+    "MenuId": "17558B5C-4DF9-4E7D-9F5C-4B48FC1D390C",
+    "ActionButton": "wAdd"
+  },
+  {
+    "MenuControlId": "8f3db5a9-5ecf-4001-957a-6e30f9fde721",
+    "MenuId": "08A86EB8-4CEE-44CD-A86B-F95A3AD0A4FA",
+    "ActionButton": "wDelete"
+  },
+  {
+    "MenuControlId": "c3a4595b-a923-43a1-872a-4495832562b8",
+    "MenuId": "08A86EB8-4CEE-44CD-A86B-F95A3AD0A4FA",
+    "ActionButton": "wEdit"
+  },
+  {
+    "MenuControlId": "cfcba2b0-1440-470c-9eb0-26f848d83108",
+    "MenuId": "08A86EB8-4CEE-44CD-A86B-F95A3AD0A4FA",
+    "ActionButton": "wAdd"
+  },
+  {
+    "MenuControlId": "30cc62a8-a388-4b90-b2b0-1062306279e2",
+    "MenuId": "b62a2199-f287-427f-ab56-332e166f3577",
+    "ActionButton": "wDelete"
+  },
+  {
+    "MenuControlId": "5d4170c2-3d3e-45fe-a783-f48ed7b30f79",
+    "MenuId": "b62a2199-f287-427f-ab56-332e166f3577",
+    "ActionButton": "wEdit"
+  },
+  {
+    "MenuControlId": "6807494d-bac0-450c-8cf3-7378ecc358b2",
+    "MenuId": "b62a2199-f287-427f-ab56-332e166f3577",
+    "ActionButton": "wAdd"
+  },
+  {
+    "MenuControlId": "a6b73221-1e79-46cd-baec-e528db89236a",
+    "MenuId": "bb21c9a1-db16-47fd-b193-367485ea59b1",
+    "ActionButton": "wApproved"
+  },
+  {
+    "MenuControlId": "c32e2f68-25d2-46e9-9a77-e7697dba3907",
+    "MenuId": "bb21c9a1-db16-47fd-b193-367485ea59b1",
+    "ActionButton": "wEdit"
+  },
+  {
+    "MenuControlId": "843e4857-3e79-40ce-b818-17e62afca77c",
+    "MenuId": "bb21c9a1-db16-47fd-b193-367485ea59b1",
+    "ActionButton": "wAdd"
+  },
+  {
+    "MenuControlId": "f93bbc50-a1ee-4300-bbd0-ae9faee25289",
+    "MenuId": "04ba5aa7-007a-40de-994a-95b16ecbd261",
+    "ActionButton": "wDelete"
+  },
+  {
+    "MenuControlId": "8142fd91-7329-4367-bb17-4d7f46326573",
+    "MenuId": "04ba5aa7-007a-40de-994a-95b16ecbd261",
+    "ActionButton": "wEdit"
+  },
+  {
+    "MenuControlId": "17984f1a-e4a9-4fef-9ec7-6ef548e86d94",
+    "MenuId": "04ba5aa7-007a-40de-994a-95b16ecbd261",
+    "ActionButton": "wAdd"
+  },
+  {
+    "MenuControlId": "1aa1e278-9619-4294-8e24-7100b660611d",
+    "MenuId": "286dfd48-b4fa-4c29-954b-bf39aaf294ca",
+    "ActionButton": "wDelete"
+  },
+  {
+    "MenuControlId": "889f5172-3937-4ca8-9857-4e3e3481a260",
+    "MenuId": "286dfd48-b4fa-4c29-954b-bf39aaf294ca",
+    "ActionButton": "wEdit"
+  },
+  {
+    "MenuControlId": "10cd2671-9fda-4801-a8f2-7c20f0a86254",
+    "MenuId": "286dfd48-b4fa-4c29-954b-bf39aaf294ca",
+    "ActionButton": "wAdd"
+  }
+]
